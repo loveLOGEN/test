@@ -6,6 +6,5 @@ public class TestV02 {
         int b = 1;
         a = 9;
         System.out.println(a+b);
-        System.out.println(1);
     }
 }
